@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Gallary = () => {
+const Gallery = () => {
     return (
         <div>
-            <h1>jachajc</h1>
+            <h1>Gallery page</h1>
         </div>
     );
 };
 
-export default Gallary;
+export default Gallery;

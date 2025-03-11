@@ -1,0 +1,57 @@
+[{
+  "id": 1,
+  "title": "Karpaty Hills Faux Travertine Resin 60\"",
+  "price": "1,699.00",
+  "imgUrl": "/images/furn/CaryCoffeeTableAVSHS25.jpg",
+  "description": "Made of cast aluminum, the coffee table supports a round top on a tripod of chunky, cylindrical legs."
+},
+  {
+    "id": 2,
+    "title": "Sassolino Concrete and Burl Wood 68\" Coffee Table by Athena Calderone",
+    "price": "1,599.00",
+    "imgUrl":"/images/furn/CB_F22_AC_1_507_Vert_V1_748.jpg",
+    "description": "Textured to resemble stone, the top is secured by three oval legs clad in mappa burl veneer, prized for its naturally occurring wood grain swirls."
+  },
+  {
+    "id": 3,
+    "title": "Cary Bronze Aluminum 50\" Round Coffee Table",
+    "price": "1,249.00",
+    "imgUrl":"/images/furn/CB_F24_FOF_27_108_Hor_Ver_001A_X.jpg",
+    "description": "Organic curves rendered in stone-like resin lend warmth and vitality to our modern coffee table. "
+  },
+  {
+    "id": 4,
+    "title": "Fleur Faux Travertine Resin 52\" Coffee Table",
+    "price": "1,499.00",
+    "imgUrl":"/images/furn/CB_SP25_BR_13_707_Hori_001_Hollywood.jpg",
+    "description": "Exclusive collaboration! L.A.-based star designer Brigette Romanek redefines design rules as only she can, with playfully unexpected forms to bring you the fresh look."
+  },
+  {
+    "id": 5,
+    "title": "Sheffield Brown Wood 60\" Round Coffee Table",
+    "price": "1,899.00",
+    "imgUrl":"/images/furn/CB_SP25_NA_06_305_Hor_001_PDP.jpg",
+    "description": "The coffee table's bold conical pedestal and simple round top are made from concrete material that creates a plaster-like appearance"
+  },
+  {
+    "id": 6,
+    "title": "Willy Faux Travertine Resin 44\" Round Pedestal Coffee Table",
+    "price": "1,199.00",
+    "imgUrl":"/images/furn/CosmoBrsPdntDillane8x10RugPES19.jpg",
+    "description": "Bronze-finished iron swells its oval, drumlike profile, hammered by hand with subtle, earthy texture."
+  },
+  {
+    "id": 7,
+    "title": "Fernando Metal Drum 32.5\" Round Coffee Table",
+    "price": "799.00",
+    "imgUrl":"/images/furn/DevLrgCoffeeTableAVSHF23.jpg",
+    "description": " Hammered for light-catching texture, the grey-finished aluminum base curves in and out to support an inset tabletop of taupe marble."
+  },
+  {
+    "id": 8,
+    "title": "Dev Taupe Marble and Grey Metal 47\" Round Coffee Table",
+    "price": "2,199.00",
+    "imgUrl":"/images/furn/SheffieldLgRnCoffeeTblAVSHS25.jpg",
+    "description": "Simply stunning for its minimalist shape, the Sheffield coffee table makes a contemporary statement in beautiful oak veneer."
+  }
+]
